@@ -1,0 +1,9 @@
+<application>
+  <component name="NotificationConfiguration">
+    <toolWindow group="Find in Path" />
+    <toolWindow group="Web Deployment: Remote Host" />
+    <toolWindow group="Flash app not compiled before launch" />
+    <toolWindow group="notification.group.id.gradle" />
+    <toolWindow group="Debugger messages" />
+  </component>
+</application>
