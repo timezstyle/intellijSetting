@@ -15,5 +15,8 @@
     <property name="file.colors.enable.tests" value="Green" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="Tests" value="Green" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="export.settings.path" value="$APPLICATION_CONFIG_DIR$/settings.jar" />
   </component>
 </application>
