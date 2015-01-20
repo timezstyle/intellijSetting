@@ -31,6 +31,7 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
+            <entry key="$USER_HOME$/Documents/workspace/jhipster" value="7108674130000" />
             <entry key="$USER_HOME$/Downloads/ssp-admin" value="1421645080000" />
           </map>
         </option>
@@ -155,6 +156,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
