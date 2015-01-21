@@ -67,6 +67,13 @@
     <ignored-resource url="http://exslt.org/common" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="text-editor,ResourceBundle" value="ResourceBundle" />
+      </map>
+    </option>
+  </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
