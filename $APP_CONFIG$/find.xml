@@ -9,8 +9,8 @@
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
       <mask>*.html</mask>
     </recentFileMasks>
   </component>
