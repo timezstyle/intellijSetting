@@ -14,8 +14,8 @@
       <mask>*.xml</mask>
       <mask>*</mask>
       <mask>*.java</mask>
-      <mask>*.html</mask>
       <mask>*.css</mask>
+      <mask>*.html</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
