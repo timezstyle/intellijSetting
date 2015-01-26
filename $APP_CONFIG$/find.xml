@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="ssp-admin" />
     <option name="defaultScopeName" value="ssp-admin" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="ssp-admin" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
