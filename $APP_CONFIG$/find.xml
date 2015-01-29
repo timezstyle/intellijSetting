@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="ssp-admin" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -19,6 +18,10 @@
       <mask>*.html</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
+      <mask>*.properties</mask>
+      <mask>*.gradle</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
