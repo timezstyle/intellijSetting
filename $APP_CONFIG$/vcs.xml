@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
   </component>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/usr/local/bin/hg" />
+  </component>
 </application>
