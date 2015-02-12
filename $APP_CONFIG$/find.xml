@@ -5,13 +5,12 @@
     <option name="defaultScopeName" value="ssp-admin" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="ssp-admin" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
-      <mask>*</mask>
       <mask>*.css</mask>
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
@@ -20,6 +19,7 @@
       <mask>*.html</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
