@@ -152,7 +152,9 @@
     <option name="IS_PREVIEW_USAGES" value="true" />
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="valueLookupDelay" value="300" />
+    </data-views>
     <general />
     <debuggers>
       <debugger id="groovy_debugger">
@@ -164,7 +166,9 @@
         </configuration>
       </debugger>
       <debugger id="scala_debugger">
-        <configuration />
+        <configuration>
+          <option name="DO_NOT_DISPLAY_STREAMS" value="false" />
+        </configuration>
       </debugger>
     </debuggers>
   </component>
