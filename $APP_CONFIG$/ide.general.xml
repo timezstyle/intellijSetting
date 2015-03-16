@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="lastTip" value="78" />
+    <option name="lastTip" value="79" />
     <option name="showTipsOnStartup" value="true" />
     <option name="showOccupiedMemory" value="false" />
     <option name="reopenLastProject" value="true" />
@@ -14,6 +14,6 @@
     <option name="searchInBackground" value="false" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Documents/springboot" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents" />
   </component>
 </application>
