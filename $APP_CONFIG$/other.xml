@@ -122,6 +122,14 @@
     <ignored-resource url="http://exslt.org/common" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="com.intellij.database.editor.DatabaseTableFileEditorProvider,text-editor" value="com.intellij.database.editor.DatabaseTableFileEditorProvider" />
+        <entry key="text-editor,com.intellij.database.editor.CsvTableFileEditorProvider" value="com.intellij.database.editor.CsvTableFileEditorProvider" />
+      </map>
+    </option>
+  </component>
   <component name="RecentTaskRepositories">
     <Redmine shared="false" url="http://tenmax-redmine.azure.funptw">
       <option name="APIKey" value="" />
