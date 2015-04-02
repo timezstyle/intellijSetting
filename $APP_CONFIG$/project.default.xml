@@ -24,7 +24,7 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/Documents/workspace/tenmax-ginger-new" value="27130980092000" />
+            <entry key="$USER_HOME$/Documents/workspace/tenmax-ginger-new" value="11423712087000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -142,6 +142,22 @@
           <listeners />
           <method />
         </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
