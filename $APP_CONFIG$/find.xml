@@ -3,7 +3,6 @@
     <option name="customScope" value="ssp-admin" />
     <option name="defaultScopeName" value="ssp-admin" />
     <option name="SEARCH_SCOPE" value="ssp-admin" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
