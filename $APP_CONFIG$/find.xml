@@ -3,6 +3,7 @@
     <option name="customScope" value="ssp-admin" />
     <option name="defaultScopeName" value="ssp-admin" />
     <option name="SEARCH_SCOPE" value="ssp-admin" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -15,8 +16,8 @@
       <mask>*.html</mask>
       <mask>*</mask>
       <mask>*.js</mask>
-      <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
