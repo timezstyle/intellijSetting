@@ -3,7 +3,7 @@
     <option name="customScope" value="ssp-admin" />
     <option name="defaultScopeName" value="ssp-admin" />
     <option name="SEARCH_SCOPE" value="ssp-admin" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gitignore" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -20,6 +20,7 @@
       <mask>*.csv</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
+      <mask>*.gitignore</mask>
     </recentFileMasks>
   </component>
 </application>
